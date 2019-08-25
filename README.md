@@ -1,2 +1,2 @@
 # HackThe6ix-2019
-BudgetCation: A web application that helps you budget your travel expenses and informs user of currency conversion from their home country to the country they are visiting.
+BudgetCation: A web application that helps you budget your travel expenses and informs user of currency conversion from their home country to the country they are visiting. It utilizes fixer.io's currency API to provide users with hourly live conversion rates and also implements React's RESTFUL API in the frontend. To store data about the user's trips, budgets, etc., Firebase Database and to store a new user's email and password, Firebase Authentication was used (both of this consists of the backend). Created for Hack the 6ix, 2019.
